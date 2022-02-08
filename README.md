@@ -1,2 +1,2 @@
-# Project
+# Fuzzy sets and applications Project
  
