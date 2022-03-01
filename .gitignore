@@ -4,6 +4,10 @@ Datasets/*
 images/*
 output/*
 .vscode
+*.docx
+k-means.py
+fuzzy-k-nearest-neighbor.py
+*.jpg
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
